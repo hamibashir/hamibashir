@@ -1,5 +1,40 @@
-# 💫 About Me:
-👋 About Me<br><br>I’m a Software Engineering undergraduate with a strong interest in Artificial Intelligence, Machine Learning, and data-driven systems. I enjoy building practical solutions that bridge software engineering with intelligent decision-making, especially in real-world and socially impactful domains. I’m continuously learning, experimenting, and collaborating to grow as an engineer and problem-solver.<br><br>🔭 I’m currently working on<br><br>AI and Machine Learning projects using Python, TensorFlow, and Scikit-learn<br><br>My Final Year Project: an AI-powered smart agriculture system integrating IoT, backend services, and ML-based recommendations<br><br>Full-stack development projects using React (TypeScript), Node.js, REST APIs and PHP<br><br>👯 I’m looking to collaborate on<br><br>Machine Learning / AI projects<br><br>Computer Vision applications<br><br>Data-driven software systems<br><br>Open-source projects related to AI for social good, automation, or sustainability<br><br>🤝 I’m looking for help with<br><br>Scaling ML systems and production deployment<br><br>Best practices in data engineering and pipelines<br><br>Open-source contribution workflows and collaborative development<br><br>🌱 I’m currently learning<br><br>Advanced Machine Learning & Data Engineering concepts<br><br>System design for scalable AI applications<br><br>Improving model deployment and integration into real-world systems<br><br>💬 Ask me about<br><br>Machine Learning fundamentals and applied projects<br><br>Computer Vision (emotion detection, attendance systems, driver monitoring)<br><br>Full-stack development (MERN, WordPress, APIs)<br><br>Student projects, internships, and portfolio building<br><br>⚡ Fun fact<br><br>I enjoy combining technology and creativity — from building AI systems to producing cinematic real-estate videos and exploring how tech can solve everyday problems.
+👋 About Me
+
+Software Engineering undergraduate focused on Artificial Intelligence, Machine Learning, and scalable data-driven systems. I build practical, production-oriented solutions that combine ML with strong backend and system design, with a particular interest in real-world and socially impactful applications.
+
+🔭 Currently working on
+
+Applied Machine Learning & AI projects (Python, TensorFlow, Scikit-learn)
+
+Final Year Project: AI-powered smart agriculture system (IoT + backend + ML recommendations)
+
+Full-stack systems using React (TypeScript), Node.js, REST APIs, PHP
+
+💼 Open to opportunities in
+
+Machine Learning / AI Engineering
+
+Software Engineering (Backend / Full-Stack)
+
+Data-driven and applied AI roles
+
+🛠 Technical interests
+
+Machine Learning & Computer Vision
+
+Data pipelines and system integration
+
+Production deployment of ML models
+
+Scalable backend architectures
+
+💬 Ask me about
+
+ML & Computer Vision projects
+
+Full-stack development (MERN, APIs, WordPress)
+
+Internships, student projects, and portfolio building
 
 
 ## 🌐 Socials:
