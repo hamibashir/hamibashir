@@ -1,41 +1,34 @@
-👋 About Me
+## 👋 About Me
+Software Engineering undergraduate focused on **Artificial Intelligence, Machine Learning, and scalable data-driven systems**. I build practical, production-oriented solutions that combine ML with strong backend and system design, with a particular interest in real-world and socially impactful applications.
 
-Software Engineering undergraduate focused on Artificial Intelligence, Machine Learning, and scalable data-driven systems. I build practical, production-oriented solutions that combine ML with strong backend and system design, with a particular interest in real-world and socially impactful applications.
+---
 
-🔭 Currently working on
+### 🔭 Currently working on
+- Applied Machine Learning & AI projects (**Python, TensorFlow, Scikit-learn**)
+- **Final Year Project**: AI-powered smart agriculture system (IoT + backend + ML recommendations)
+- Full-stack systems using **React (TypeScript), Node.js, REST APIs, PHP**
 
-Applied Machine Learning & AI projects (Python, TensorFlow, Scikit-learn)
+---
 
-Final Year Project: AI-powered smart agriculture system (IoT + backend + ML recommendations)
+### 💼 Open to opportunities in
+- **Machine Learning / AI Engineering**
+- **Software Engineering (Backend / Full-Stack)**
+- Data-driven and applied AI roles
 
-Full-stack systems using React (TypeScript), Node.js, REST APIs, PHP
+---
 
-💼 Open to opportunities in
+### 🛠 Technical interests
+- Machine Learning & Computer Vision
+- Data pipelines and system integration
+- Production deployment of ML models
+- Scalable backend architectures
 
-Machine Learning / AI Engineering
+---
 
-Software Engineering (Backend / Full-Stack)
-
-Data-driven and applied AI roles
-
-🛠 Technical interests
-
-Machine Learning & Computer Vision
-
-Data pipelines and system integration
-
-Production deployment of ML models
-
-Scalable backend architectures
-
-💬 Ask me about
-
-ML & Computer Vision projects
-
-Full-stack development (MERN, APIs, WordPress)
-
-Internships, student projects, and portfolio building
-
+### 💬 Ask me about
+- ML & Computer Vision projects
+- Full-stack development (MERN, APIs, WordPress)
+- Internships, student projects, and portfolio building
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hami.bashir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-bashir04) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCQYmAjeRK4owI4LSX1aWvfA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzabashir1289@gmail.com) 
