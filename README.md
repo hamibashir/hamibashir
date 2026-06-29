@@ -1,131 +1,156 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hi,%20I'm%20Hamza%20Bashir%20👋&fontSize=50&fontAlignY=38&animation=twinkling" />
-  
-  <p align="center">
-    <a href="https://github.com/hamibashir">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
-    </a>
-  </p>
 
-  **Software Engineering undergraduate focused on Artificial Intelligence, Machine Learning, and scalable data-driven systems.** <br>
-  *I build production-oriented AI systems that combine machine learning with robust backend and system design, with a focus on real-world and socially impactful applications.*
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Hamza%20Bashir&fontSize=72&fontAlignY=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Builder&descSize=20&descAlignY=62&descColor=a78bfa" />
+
+<!-- Dynamic Typing -->
+<a href="https://github.com/hamibashir">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=a78bfa&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+matter+🧠;Applied+ML+%7C+Computer+Vision+%7C+Full-Stack;From+model+to+production+—+end+to+end;Currently+building+a+smart+agriculture+AI+🌱" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges — clean row -->
+<a href="https://linkedin.com/in/hamza-bashir04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:hamzabashir1289@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://instagram.com/hami.bashir"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;
+<a href="https://youtube.com/@UCQYmAjeRK4owI4LSX1aWvfA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=hamibashir&label=Profile+Views&color=7c3aed&style=flat-square" />
+
 </div>
 
 ---
 
-### 🚀 About Me
+## ⚡ About Me
 
-- 🔭 **Currently working on:** Applied Machine Learning & AI projects, specifically an AI-powered smart agriculture system.
-- 🌱 **Currently learning:** Advanced Computer Vision & Scalable system architectures.
-- 👯 **Looking to collaborate on:** Open-source ML projects or AI-driven applications.
-- 🤝 **Open to opportunities in:** Machine Learning / AI Engineering & Full-Stack Development.
-- 📫 **How to reach me:** [hamzabashir1289@gmail.com](mailto:hamzabashir1289@gmail.com)
+```python
+class HamzaBashir:
+    role       = "Software Engineering Undergraduate"
+    focus      = ["Applied ML", "Computer Vision", "Scalable AI Systems"]
+    building   = "AI-powered smart agriculture platform 🌾"
+    learning   = ["Advanced CV", "Scalable system architectures"]
+    open_to    = ["ML/AI Engineering roles", "Full-Stack opportunities", "Open-source collabs"]
+    principle  = "Ship AI systems that work in the real world, not just in notebooks."
+    reach_me   = "hamzabashir1289@gmail.com"
+```
 
 ---
 
-### 💻 Tech Stack
+## 🛠 Tech Stack
 
 <table>
   <tr>
-    <td align="center" width="20%">
-      <strong>Languages</strong>
-    </td>
-    <td align="center" width="20%">
-      <strong>Machine Learning & Data</strong>
-    </td>
-    <td align="center" width="20%">
-      <strong>Backend & Database</strong>
-    </td>
-    <td align="center" width="20%">
-      <strong>Frontend</strong>
-    </td>
-    <td align="center" width="20%">
-      <strong>Tools</strong>
+    <th align="left">Category</th>
+    <th align="left">Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br/>
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br/>
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics
+## 🔬 What I'm Working On
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌾 Smart Agriculture AI
+Building a production-grade system that combines **Computer Vision** and **sensor-based ML models** to detect crop diseases, monitor soil health, and optimize irrigation — designed for real farmers, not just demos.
+
+`Python` `TensorFlow` `OpenCV` `Node.js`
+
+    </td>
+    <td width="50%" valign="top">
+
+### 📦 Open to Collaboration
+Looking to contribute to **open-source ML tools**, AI-for-good projects, or ambitious full-stack applications where good engineering actually matters. Got an idea? Let's talk.
+
+`ML Engineering` `Full-Stack` `Research`
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamibashir&theme=tokyonight&hide_border=false&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamibashir&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamibashir&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamibashir&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamibashir&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="50%" />
+
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamibashir&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" width="60%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/hamibashir?template=classic&base=activity,community,repositories,metadata&isocalendar=true" alt="Metrics 3D Calendar" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamibashir&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamibashir&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&color=a78bfa&line=7c3aed&point=ffffff" width="100%" />
 </div>
 
 ---
 
-### 🌐 Let's Connect
+## 💡 A Thought
 
 <div align="center">
-  <a href="https://linkedin.com/in/hamza-bashir04"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
-  <a href="mailto:hamzabashir1289@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
-  <a href="https://instagram.com/hami.bashir"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" /></a>
-  <a href="https://youtube.com/@UCQYmAjeRK4owI4LSX1aWvfA"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" target="_blank" /></a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamibashir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </div>
