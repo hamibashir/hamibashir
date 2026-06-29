@@ -76,14 +76,20 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamibashir&theme=tokyonight&hide_border=false&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamibashir&theme=tokyonight&hide_border=false&show_icons=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamibashir&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamibashir&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamibashir&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" width="60%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/hamibashir?template=classic&base=activity,community,repositories,metadata&isocalendar=true" alt="Metrics 3D Calendar" width="100%" />
 </div>
 
 <br>
