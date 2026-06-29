@@ -76,14 +76,20 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamibashir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamibashir&theme=tokyonight&hide_border=false&show_icons=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamibashir&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamibashir&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamibashir&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" width="60%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamibashir&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 ---
@@ -101,4 +107,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hamibashir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </div>
